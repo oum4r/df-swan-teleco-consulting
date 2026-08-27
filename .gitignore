@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 .gitignore
+# generated charts (regenerate by running the notebooks)
+out/*.png
